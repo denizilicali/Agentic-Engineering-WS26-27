@@ -1,5 +1,6 @@
 .DS_Store
-# nested repos
-practical-course-agentic-software-engineering-ws2627-students/
-aw1-capture/workspace/
+# course repo history (renamed .git, see README note)
+.git-course/
+
+# capture traces/scripts stay local
 aw1-capture/
